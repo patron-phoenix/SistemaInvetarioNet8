@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\proyectos asp.net core\\proyectos personales\\SistemaInventario\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\proyectos asp.net core\\proyectos personales\\SistemaInventario\\SistemaInventario.AccesoDatos\\Migrations\\20250227143039_AgregarBodegaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaInventario.AccesoDatos\\Migrations\\20250227143039_AgregarBodegaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BE495F-ACA0-484C-99CE-354D60ED616D}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|e:\\proyectos asp.net core\\proyectos personales\\sistemainventario\\sistemainventario.accesodatos\\configuracion\\bodegaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BE495F-ACA0-484C-99CE-354D60ED616D}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\configuracion\\bodegaconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BE495F-ACA0-484C-99CE-354D60ED616D}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|e:\\proyectos asp.net core\\proyectos personales\\sistemainventario\\sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BE495F-ACA0-484C-99CE-354D60ED616D}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250227143039_AgregarBodegaMigracion.cs",
+              "DocumentMoniker": "E:\\proyectos asp.net core\\proyectos personales\\SistemaInventario\\SistemaInventario.AccesoDatos\\Migrations\\20250227143039_AgregarBodegaMigracion.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Migrations\\20250227143039_AgregarBodegaMigracion.cs",
+              "ToolTip": "E:\\proyectos asp.net core\\proyectos personales\\SistemaInventario\\SistemaInventario.AccesoDatos\\Migrations\\20250227143039_AgregarBodegaMigracion.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Migrations\\20250227143039_AgregarBodegaMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:30:39.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BodegaConfiguracion.cs",
+              "DocumentMoniker": "E:\\proyectos asp.net core\\proyectos personales\\SistemaInventario\\SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
+              "ToolTip": "E:\\proyectos asp.net core\\proyectos personales\\SistemaInventario\\SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Configuracion\\BodegaConfiguracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:25:48.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\proyectos asp.net core\\proyectos personales\\SistemaInventario\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\proyectos asp.net core\\proyectos personales\\SistemaInventario\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:22:06.407Z",
+              "EditorCaption": ""
             }
           ]
         }
